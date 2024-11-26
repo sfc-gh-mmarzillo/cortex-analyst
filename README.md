@@ -45,6 +45,8 @@ CREATE OR REPLACE STAGE RETAIL_CPG_INVENTORY_STAGE;
 5. Check to see if the tables were populated.
 ![](img/retail_5.png)
 
+6. Upload the .yaml file in this repo to the stage that we previously created.
+
 ## Sample questions to ask
 - How much is there in stock for each product for RETAILER 1?
 - Which distribution center has the least amount of product stock for RETAILER 1?
